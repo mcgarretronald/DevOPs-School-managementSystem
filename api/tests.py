@@ -1,4 +1,3 @@
-
 from rest_framework.test import APITestCase
 from student.models import Student
 from django.urls import reverse

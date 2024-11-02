@@ -10,7 +10,7 @@ class StudentTestCase(TestCase):
 
     def setUp(self):
             self.student = Student(
-                first_name = "Bonnette",
+               first_name = "Bonnette",
                 last_name = "Umutoni",
                 email = "umutonibonnette@gmail.com",
                 # date_of_birth = datetime.date(2009, 9, 17),
